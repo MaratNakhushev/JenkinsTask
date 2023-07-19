@@ -1,0 +1,11 @@
+﻿{
+  "driverSettings": "Chrome",
+  "timeouts": {
+    "timeoutImplicit": 20,
+    "timeoutCondition": 30,
+    "timeoutScript": 10,
+    "timeoutPageLoad": 60,
+    "timeoutPollingInterval": 300,
+    "timeoutCommand": 60
+  }
+
